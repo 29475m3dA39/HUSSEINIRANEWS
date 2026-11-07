@@ -1,0 +1,22 @@
+دليل نشر HUSSEIN IRAN NEWS
+
+الملف الرئيسي: index.html
+
+النشر المجاني عبر GitHub Pages:
+1. افتح https://github.com/ وأنشئ حساباً مجانياً أو سجّل الدخول.
+2. اضغط New repository.
+3. سمّ المستودع: husseinirannews
+4. اختر Public ثم Create repository.
+5. ارفع ملف index.html من Add file ثم Upload files، وبعدها Commit changes.
+6. افتح Settings ثم Pages.
+7. ضمن Build and deployment اختر Deploy from a branch.
+8. اختر branch: main والمجلد: /(root)، ثم Save.
+9. انتظر اكتمال النشر. سيكون الرابط غالباً:
+   https://اسم-حسابك.github.io/husseinirannews/
+
+مهم:
+- لا تحتاج بطاقة مصرفية أو شراء استضافة أو دومين خاص لنشر صفحة ثابتة عبر GitHub Pages.
+- اسم الحساب في GitHub يحدد جزءاً من الرابط؛ لا يمكنني إنشاء الحساب أو النشر نيابة عنك من دون تسجيل دخولك.
+- Google لا يضمن ترتيب الموقع أولاً أو ثانياً. بعد النشر أضف رابط الموقع إلى Google Search Console واطلب الفهرسة.
+- هذا موقع ثابت: الأخبار لا تتحدث تلقائياً. لتحديثها، افتح index.html وعدّل عنوان الخبر والملخص والتاريخ ورابط المصدر ثم ارفع الملف المعدل إلى GitHub.
+- لا تنشر أي خبر دون التحقق من المصدر والتاريخ. الأخبار المدرجة هنا موجزات من AP وReuters بتاريخ 5–6 نوفمبر 2026.
